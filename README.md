@@ -23,4 +23,4 @@
 
   ### It can be used in combination with live-server: ###
 
-    `live-server public`
+  `live-server public`
