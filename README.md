@@ -4,7 +4,7 @@
 * Clone this project
 * Run `npm install`
 
-### This repo have the following Babel setup ###
+### This repo have the following Babel setup: ###
 
 ```javascript
 "devDependencies": {
@@ -21,6 +21,6 @@
 
   `babel src/app.js --out-file=public/scripts/app.js --presets=env,react —-watch`
 
-    ### It can be used in combination with live-server: ###
+  ### It can be used in combination with live-server: ###
 
     `live-server public`
