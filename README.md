@@ -1,8 +1,11 @@
 # Babel Basic Setup
 
-## Usage: ##
-* Clone this project
-* Run `npm install`
+### How to install this project
+```sh
+$ git clone https://github.com/andres-cruz/babel-basic-setup.git
+$ cd babel-basic-setup
+$ npm i
+```
 
 ### This repo have the following Babel setup: ###
 
