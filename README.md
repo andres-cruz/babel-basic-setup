@@ -24,3 +24,6 @@
   ### It can be used in combination with live-server: ###
 
   `live-server public`
+  
+If you need a webpack boilerplate configured to use React, then use the following repo:
+[webpack-boilerplate](https://github.com/andres-cruz/webpack-boilerplate)
